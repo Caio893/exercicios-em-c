@@ -1,14 +1,13 @@
 {
   "version": "0.2.0",
   "configurations": [
-    
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/caio893/Documents/exercicios-em-c",
-      "program": "/Users/caio893/Documents/exercicios-em-c/build/Debug/outDebug"
+      "cwd": "/Users/caio893/Documents/Documentos - Caio’s iMac Pro/exercicios-em-c",
+      "program": "/Users/caio893/Documents/Documentos - Caio’s iMac Pro/exercicios-em-c/build/Debug/outDebug"
     }
   ]
 }
